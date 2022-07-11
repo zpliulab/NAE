@@ -5,7 +5,7 @@
 
 **Please cite our paper if it helps you.**
 
-
+![workfolw](https://github.com/zpliulab/NAE/blob/master/workflow.jpg)
 
 Computer Environment:
 -
