@@ -7,9 +7,9 @@
 
 ![workfolw](https://github.com/zpliulab/NAE/blob/master/workflow.jpg)
 
-Computer Environment:
+Computer Environment ![MATLAB](https://img.shields.io/badge/MATLAB-green.svg "MATLAB")(https://ww2.mathworks.cn/products/matlab.html "MATLAB"):
 -
-- ![MATLAB](https://img.shields.io/badge/MATLAB-green.svg "MATLAB") MATLAB R2022a (requires Parallel Computing Toolbox installed)
+- MATLAB R2022a (requires Parallel Computing Toolbox installed)
 - If your working environment cannot enable parallel pooling, please replace *parfor* with *for*
 
 
