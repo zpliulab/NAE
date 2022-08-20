@@ -5,7 +5,8 @@
 
 **Please cite our paper (Early Access) if it helps you.**
 
-@ARTICLE{9858601,  author={Wang, Chuanyuan and Xu, Shiyu and Liu, Zhi-Ping},
+@ARTICLE{9858601, 
+author={Wang, Chuanyuan and Xu, Shiyu and Liu, Zhi-Ping},
 journal={IEEE Journal of Biomedical and Health Informatics},
 title={Evaluating gene regulatory network activity from dynamic expression data by regularized constraint programming},
 year={2022},  
