@@ -5,15 +5,7 @@
 
 **Please cite our paper (Early Access) if it helps you.**
 
-@ARTICLE{9858601, 
-author={Wang, Chuanyuan and Xu, Shiyu and Liu, Zhi-Ping},
-journal={IEEE Journal of Biomedical and Health Informatics},
-title={Evaluating gene regulatory network activity from dynamic expression data by regularized constraint programming},
-year={2022},  
-volume={},  
-number={},  
-pages={1-12},  
-doi={10.1109/JBHI.2022.3199243}}
+C. Wang, S. Xu and Z. -P. Liu, "Evaluating gene regulatory network activity from dynamic expression data by regularized constraint programming," in IEEE Journal of Biomedical and Health Informatics, 2022, doi: 10.1109/JBHI.2022.3199243.
 
 ![workfolw](https://github.com/zpliulab/NAE/blob/master/workflow.jpg)
 
