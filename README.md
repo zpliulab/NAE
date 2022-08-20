@@ -4,7 +4,7 @@
 **To evaluate the activity of regulatory events in the form of network, we propose a network activity evaluation (NAE) framework by measuring the consistency between network architecture and gene expression data across specific states based on mathematical programming.**
 
 **Please cite our paper (Early Access) if it helps you.**
-<table><tr><td bgcolor=gray> 背景色是 1 gray</td></tr></table>
+<table><tr><td bgcolor= BlueViolet > 背景色2 BlueViolet </td></tr></table>
    C. Wang, S. Xu and Z. -P. Liu, "Evaluating gene regulatory network activity from dynamic expression data by regularized constraint programming," in IEEE Journal of Biomedical and Health Informatics, 2022, doi: 10.1109/JBHI.2022.3199243.
 
 
